@@ -1,0 +1,1 @@
+A CLI (for now) music player made with Rust.
