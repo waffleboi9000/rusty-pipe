@@ -1,4 +1,3 @@
-extern crate clap;
 use clap::{App, Arg};
 use std::fs;
 use std::io;
